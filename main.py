@@ -7,6 +7,7 @@ import discord
 from vector_database import VectorDatabase
 from embeddings import Embedding
 
+
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 intents = Intents.default()
