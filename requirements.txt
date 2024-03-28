@@ -1,0 +1,14 @@
+discord~=2.3.2
+python-dotenv~=1.0.1
+torch~=2.2.1
+numpy~=1.26.4
+transformers~=4.39.1
+requests~=2.31.0
+pillow~=10.2.0
+tesseract
+tesseract-ocr
+pytesseract~=0.3.10
+trafilatura~=1.8.0
+psycopg2-binary
+einops
+
